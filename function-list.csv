@@ -1,0 +1,7 @@
+sub1,assy1,func,assy2,sub2
+sub11,assy11,func1,assy21,sub21
+sub12,assy12,func2,assy22,sub22
+sub13,assy13a,func3,assy23a,sub23
+sub13,assy13a,func3,assy23b,sub23
+sub13,assy13b,func3,assy23a,sub23
+sub13,assy13b,func3,assy23b,sub23
